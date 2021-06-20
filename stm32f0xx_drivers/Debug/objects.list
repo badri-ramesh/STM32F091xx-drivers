@@ -1,0 +1,5 @@
+"Drivers/Src/stm32f091xx_gpio_driver.o"
+"Src/001Led_toggle.o"
+"Src/syscalls.o"
+"Src/sysmem.o"
+"Startup/startup_stm32f091rctx.o"
